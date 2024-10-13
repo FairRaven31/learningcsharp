@@ -1,0 +1,15 @@
+/home/thebassawaddy/Documents/code/c#/learningcsharp/Project7/bin/Debug/net8.0/Project7
+/home/thebassawaddy/Documents/code/c#/learningcsharp/Project7/bin/Debug/net8.0/Project7.deps.json
+/home/thebassawaddy/Documents/code/c#/learningcsharp/Project7/bin/Debug/net8.0/Project7.runtimeconfig.json
+/home/thebassawaddy/Documents/code/c#/learningcsharp/Project7/bin/Debug/net8.0/Project7.dll
+/home/thebassawaddy/Documents/code/c#/learningcsharp/Project7/bin/Debug/net8.0/Project7.pdb
+/home/thebassawaddy/Documents/code/c#/learningcsharp/Project7/obj/Debug/net8.0/Project7.GeneratedMSBuildEditorConfig.editorconfig
+/home/thebassawaddy/Documents/code/c#/learningcsharp/Project7/obj/Debug/net8.0/Project7.AssemblyInfoInputs.cache
+/home/thebassawaddy/Documents/code/c#/learningcsharp/Project7/obj/Debug/net8.0/Project7.AssemblyInfo.cs
+/home/thebassawaddy/Documents/code/c#/learningcsharp/Project7/obj/Debug/net8.0/Project7.csproj.CoreCompileInputs.cache
+/home/thebassawaddy/Documents/code/c#/learningcsharp/Project7/obj/Debug/net8.0/Project7.sourcelink.json
+/home/thebassawaddy/Documents/code/c#/learningcsharp/Project7/obj/Debug/net8.0/Project7.dll
+/home/thebassawaddy/Documents/code/c#/learningcsharp/Project7/obj/Debug/net8.0/refint/Project7.dll
+/home/thebassawaddy/Documents/code/c#/learningcsharp/Project7/obj/Debug/net8.0/Project7.pdb
+/home/thebassawaddy/Documents/code/c#/learningcsharp/Project7/obj/Debug/net8.0/Project7.genruntimeconfig.cache
+/home/thebassawaddy/Documents/code/c#/learningcsharp/Project7/obj/Debug/net8.0/ref/Project7.dll
