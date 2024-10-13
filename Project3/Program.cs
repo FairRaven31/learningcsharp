@@ -27,9 +27,12 @@ class Program
         string myFirstName;
         myFirstName = Console.ReadLine();
 
-        Console.Write("Type your last Name: ");
-        string myLastName;
-        myLastName = Console.ReadLine();
+        // Console.Write("Type your last Name: ");
+        // string myLastName;
+        // myLastName = Console.ReadLine();
+
+        Console.Write("Type your last name");
+        string myLastName = Console.ReadLine();
 
         Console.WriteLine("Hello, " + myFirstName + " " + myLastName);
         Console.ReadLine();
