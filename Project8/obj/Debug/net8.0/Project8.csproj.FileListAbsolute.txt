@@ -1,0 +1,15 @@
+/home/thebassawaddy/Documents/code/c#/learningcsharp/Project8/bin/Debug/net8.0/Project8
+/home/thebassawaddy/Documents/code/c#/learningcsharp/Project8/bin/Debug/net8.0/Project8.deps.json
+/home/thebassawaddy/Documents/code/c#/learningcsharp/Project8/bin/Debug/net8.0/Project8.runtimeconfig.json
+/home/thebassawaddy/Documents/code/c#/learningcsharp/Project8/bin/Debug/net8.0/Project8.dll
+/home/thebassawaddy/Documents/code/c#/learningcsharp/Project8/bin/Debug/net8.0/Project8.pdb
+/home/thebassawaddy/Documents/code/c#/learningcsharp/Project8/obj/Debug/net8.0/Project8.GeneratedMSBuildEditorConfig.editorconfig
+/home/thebassawaddy/Documents/code/c#/learningcsharp/Project8/obj/Debug/net8.0/Project8.AssemblyInfoInputs.cache
+/home/thebassawaddy/Documents/code/c#/learningcsharp/Project8/obj/Debug/net8.0/Project8.AssemblyInfo.cs
+/home/thebassawaddy/Documents/code/c#/learningcsharp/Project8/obj/Debug/net8.0/Project8.csproj.CoreCompileInputs.cache
+/home/thebassawaddy/Documents/code/c#/learningcsharp/Project8/obj/Debug/net8.0/Project8.sourcelink.json
+/home/thebassawaddy/Documents/code/c#/learningcsharp/Project8/obj/Debug/net8.0/Project8.dll
+/home/thebassawaddy/Documents/code/c#/learningcsharp/Project8/obj/Debug/net8.0/refint/Project8.dll
+/home/thebassawaddy/Documents/code/c#/learningcsharp/Project8/obj/Debug/net8.0/Project8.pdb
+/home/thebassawaddy/Documents/code/c#/learningcsharp/Project8/obj/Debug/net8.0/Project8.genruntimeconfig.cache
+/home/thebassawaddy/Documents/code/c#/learningcsharp/Project8/obj/Debug/net8.0/ref/Project8.dll
